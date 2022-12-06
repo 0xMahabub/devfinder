@@ -15,6 +15,11 @@
   -webkit-text-size-adjust: 100%;
 }
 
+/*===> TailwindCSS <===*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 a {
   font-weight: 500;
   color: #646cff;
