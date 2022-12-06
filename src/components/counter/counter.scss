@@ -1,0 +1,21 @@
+.counter {
+  background: #efefef;
+  padding: 1rem;
+  border-radius: .5rem;
+  color: #3d3d3d;
+
+  // h1
+  h1 {
+    color: #2c4de0;
+  }
+
+  // p
+  p {font-size: 2rem;}
+
+  // button
+  button {
+    background: #3043d5;
+    margin: .5rem;
+    text-transform: capitalize;
+  }  
+}
