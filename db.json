@@ -1,19 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "user": {
+    "login": "0xMahabub",
+    "id": 86561283,
+    "node_id": "MDQ6VXNlcjg2NTYxMjgz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/86561283?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/0xMahabub",
+    "html_url": "https://github.com/0xMahabub",
+    "followers_url": "https://api.github.com/users/0xMahabub/followers",
+    "following_url": "https://api.github.com/users/0xMahabub/following{/other_user}",
+    "gists_url": "https://api.github.com/users/0xMahabub/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/0xMahabub/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/0xMahabub/subscriptions",
+    "organizations_url": "https://api.github.com/users/0xMahabub/orgs",
+    "repos_url": "https://api.github.com/users/0xMahabub/repos",
+    "events_url": "https://api.github.com/users/0xMahabub/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/0xMahabub/received_events",
+    "type": "User",
+    "site_admin": false,
+    "name": "0xMahabub",
+    "company": null,
+    "blog": "https://0xmahabub.github.io/",
+    "location": "Bangladesh",
+    "email": null,
+    "hireable": true,
+    "bio": "Student && <Undergrad status=\"running\" />",
+    "twitter_username": "mahabub__7",
+    "public_repos": 49,
+    "public_gists": 0,
+    "followers": 5,
+    "following": 11,
+    "created_at": "2021-06-27T14:08:58Z",
+    "updated_at": "2022-12-02T21:26:24Z"
   }
 }
